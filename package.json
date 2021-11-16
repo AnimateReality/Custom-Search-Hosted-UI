@@ -1,0 +1,23 @@
+{
+  "name": "custom-search-hosted-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnimateReality/Custom-Search-Hosted-UI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnimateReality/Custom-Search-Hosted-UI/issues"
+  },
+  "homepage": "https://github.com/AnimateReality/Custom-Search-Hosted-UI#readme"
+}
