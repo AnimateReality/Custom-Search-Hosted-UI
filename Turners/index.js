@@ -7,7 +7,7 @@ function myFunction() {
 
 function modifySearchText () {
     var inputVal = document.getElementById("query").value;
-    const regex = /[!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~]/g;
+    const regex = /[!"#$%&'()*+,-./:;<=>@[\]^_`{|}~]/g;
     newVal = inputVal.replace(regex, ' ');
     window.open(endpoint + newVal);
 }
