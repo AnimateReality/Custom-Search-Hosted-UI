@@ -11,7 +11,7 @@ test('to test regex expressions', () => {
 })
 
 test('to test regex expressions', () => {
-  expect(modifyText('!car insurance')).toBe(' car insurance2')
+  expect(modifyText('!car insurance')).toBe(' car insurance')
 })
 
 test('to test regex expressions', () => {
